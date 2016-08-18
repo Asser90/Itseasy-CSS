@@ -1,2 +1,2 @@
-# Itseasy-CSS
+# Itseasy CSS
 Homemade css framework.
